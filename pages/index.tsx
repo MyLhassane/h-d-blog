@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center py-2">
+    <div className="containter mx-auto px-10 mb-8">
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
